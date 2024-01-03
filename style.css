@@ -1,0 +1,15 @@
+div{
+    background-color: aquamarine;
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.first{
+    display: inline-block;
+}
+body{
+    background-image: url(Image/2.jpg);
+}
