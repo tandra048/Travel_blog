@@ -5,13 +5,12 @@ div{
     border-radius: 10px;
     margin: 10px;
     padding: 10px;
+    text-align: justify;
 
 }
-.first{
-    display: inline-block;
-}
+
 body{
-    background-color: beige;
+    background-image: url(Image/2.jpg);
     margin: 10px;
     padding: 10px;
 }
@@ -24,6 +23,7 @@ button{
     background-color: white;
     margin: 10px;
 }
+
 img{
     border: 5px solid green;;
     border-radius: 10px;
