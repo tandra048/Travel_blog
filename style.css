@@ -11,6 +11,7 @@ div{
 
 body{
     background-image: url(Image/2.jpg);
+    background-position: bottom center;
     margin: 10px;
     padding: 10px;
 }
